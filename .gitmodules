@@ -1,0 +1,3 @@
+[submodule "umass-bitcoin.github.io"]
+	path = umass-bitcoin.github.io
+	url = git@github.com:umass-bitcoin/umass-bitcoin.github.io.git

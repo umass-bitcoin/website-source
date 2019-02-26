@@ -1,0 +1,45 @@
+enable : true
+heading : What we
+headingSpan : do
+serviceItem :
+  - icon : tf-ion-social-github
+    title : Projects
+    content : We do a ton of crypto and blockchain projects for fun! We can help you whether you're just looking to learn, want to submit a pull request, or want to start your own project.
+    btn : true
+    btnText : Work with us
+    btnUrl : https://github.com/umass-bitcoin
+    
+  - icon : tf-globe
+    title : Community and Culture
+    content : We want to create a community and culture around Crypto at UMass Amherst. Come talk with us on our INSERT TALK PLATFORM HERE!
+    btn : true
+    btnText : Talk with us
+    btnUrl : https://umass-bitcoin.github.io/community
+    
+  - icon : tf-genius
+    title : Research
+    content : We love to support and advise people who have new and innovative problems that they'd like to work on. 
+    btn : true
+    btnText : Research with us
+    btnUrl : https://umass-bitcoin.github.io/research
+    
+  - icon : tf-ion-clock
+    title : Events
+    content : We HODL tons of events and meetups throughout the year, come see what we're all about! Bring your friends!
+    btn : true
+    btnText : Learn with us
+    btnUrl : https://umass-bitcoin.github.io/events
+    
+  - icon : tf-ion-flash
+    title : Leadership
+    content : We're always in search of leaders and planners who would like to help the cause. Click the button down below to apply to help contribute and realize your vision for the future.
+    btn : true
+    btnText : Lead with us
+    btnUrl : https://umass-bitcoin.github.io/apply
+    
+  - icon : tf-wine
+    title : Social
+    content : Want to hang out with us and help nurture the UMass crypto culture? We organize events just for hanging out, just for having fun!
+    btn : true
+    btnText : One of us
+    btnUrl : https://umass-bitcoin.github.io/social

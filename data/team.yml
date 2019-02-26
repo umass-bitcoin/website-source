@@ -1,0 +1,59 @@
+enable : true
+heading : Our
+headingSpan : Team
+teamMember :
+  - image : images/team/team-1.jpg
+    name : The one who declines
+    designation : President | Co-Founder
+    description : An absolute unit, his only dream is to be raw af
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-github
+        url : "#"
+      
+  - image : images/team/team-2.jpg
+    name : Bird Man
+    designation : Head of Hype | Co-Founder
+    description : Another absolute unit, this boyo always be doin 2 things at once.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-github
+        url : "#"
+      
+  - image : images/team/team-3.jpg
+    name : Not a Lesser Being
+    designation : Head of R&D
+    description : One sciencey boy
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-github
+        url : "#"
+      
+  - image : images/team/team-4.jpg
+    name : My other right hand
+    designation : Head of PR
+    description : We everywhere
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-github
+        url : "#"
